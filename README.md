@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://app.hackthebox.com/public/users/3073012"><img src="https://img.shields.io/badge/HTB-Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=141d2b" alt="HTB"/></a>
-<img src="https://komarev.com/ghpvc/?username=azyztns&style=for-the-badge&color=9FEF00&label=VISITORS&labelColor=141d2b" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=xherogasm&style=for-the-badge&color=9FEF00&label=VISITORS&labelColor=141d2b" alt="visitors"/>
 
 </div>
 
@@ -59,7 +59,7 @@ class Xherogasm:
 <!-- ═══════════════════ SNAKE ═══════════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/azyztns/azyztns/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/xherogasm/xherogasm/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
 
 </div>
 
@@ -68,14 +68,14 @@ class Xherogasm:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azyztns&show_icons=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azyztns&layout=compact&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xherogasm&show_icons=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xherogasm&layout=compact&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
 
-<img src="https://streak-stats.demolab.com?user=azyztns&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
+<img src="https://streak-stats.demolab.com?user=xherogasm&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=azyztns&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=xherogasm&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azyztns&bg_color=141d2b&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xherogasm&bg_color=141d2b&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -97,11 +97,11 @@ class Xherogasm:
 <tr>
 <td width="55%" valign="top">
 
-### 🚩 [htb_writeups](https://github.com/azyztns/htb_writeups)
+### 🚩 [htb_writeups](https://github.com/xherogasm/htb_writeups)
 
 Detailed, screenshot-rich walkthroughs of every **retired** Hack The Box machine I've rooted — full recon → foothold → root chains.
 
-<a href="https://github.com/azyztns/htb_writeups"><img src="https://img.shields.io/badge/view_repo-htb__writeups-9FEF00?style=for-the-badge&logo=github&logoColor=black&labelColor=141d2b"/></a>
+<a href="https://github.com/xherogasm/htb_writeups"><img src="https://img.shields.io/badge/view_repo-htb__writeups-9FEF00?style=for-the-badge&logo=github&logoColor=black&labelColor=141d2b"/></a>
 
 `10 machines` · `Linux + Windows` · `Easy → Insane`
 
@@ -128,7 +128,7 @@ Coursework & personal builds — pinned on my profile.
 <a href="https://linkedin.com/in/azyztns">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/azyztns">
+<a href="https://github.com/xherogasm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
 <a href="mailto:mohamedaziztounci@gmail.com">
