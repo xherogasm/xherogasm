@@ -10,8 +10,6 @@
 <br>
 
 <a href="https://app.hackthebox.com/public/users/3073012"><img src="https://img.shields.io/badge/HTB-Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=141d2b" alt="HTB"/></a>
-<a href="https://linkedin.com/in/azyztns"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141d2b" alt="LinkedIn"/></a>
-<a href="mailto:mohamedaziztounci@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=141d2b" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=azyztns&style=for-the-badge&color=9FEF00&label=VISITORS&labelColor=141d2b" alt="visitors"/>
 
 </div>
@@ -99,11 +97,11 @@ class Xherogasm:
 <tr>
 <td width="55%" valign="top">
 
-### 🚩 [htb-writeups](https://github.com/azyztns/htb-writeups)
+### 🚩 [htb_writeups](https://github.com/azyztns/htb_writeups)
 
 Detailed, screenshot-rich walkthroughs of every **retired** Hack The Box machine I've rooted — full recon → foothold → root chains.
 
-<a href="https://github.com/azyztns/htb-writeups"><img src="https://img.shields.io/badge/view_repo-htb--writeups-9FEF00?style=for-the-badge&logo=github&logoColor=black&labelColor=141d2b"/></a>
+<a href="https://github.com/azyztns/htb_writeups"><img src="https://img.shields.io/badge/view_repo-htb__writeups-9FEF00?style=for-the-badge&logo=github&logoColor=black&labelColor=141d2b"/></a>
 
 `10 machines` · `Linux + Windows` · `Easy → Insane`
 
@@ -121,6 +119,23 @@ Coursework & personal builds — pinned on my profile.
 </table>
 
 > 💡 Pin your best repos: **profile → "Customize your pins" → tick `htb-writeups` + your top uni projects.**
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/azyztns">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/azyztns">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+</a>
+<a href="mailto:mohamedaziztounci@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+</a>
+
+</div>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7f37,100:141d2b&height=120&section=footer&text=there%20is%20no%20patch%20for%20human%20curiosity&fontColor=9FEF00&fontSize=18&fontAlignY=70" width="100%" alt="footer"/>
