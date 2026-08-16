@@ -118,7 +118,7 @@ Coursework & personal builds — pinned on my profile.
 </tr>
 </table>
 
-> 💡 Pin your best repos: **profile → "Customize your pins" → tick `htb-writeups` + your top uni projects.**
+> 💡 Pin your best repos: **profile → "Customize your pins" → tick `htb_writeups` + your top uni projects.**
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Connect
