@@ -73,7 +73,7 @@ class Xherogasm:
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=azyztns&show_icons=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azyztns&layout=compact&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=azyztns&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
+<img src="https://streak-stats.demolab.com?user=azyztns&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=azyztns&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
@@ -90,26 +90,37 @@ class Xherogasm:
   <img src="https://www.hackthebox.com/badge/image/3073012" alt="Hack The Box" />
 </a>
 
-<br><br>
-
-[![HTB Writeups](https://github-readme-stats.vercel.app/api/pin/?username=azyztns&repo=htb-writeups&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=141d2b&hide_border=true)](https://github.com/azyztns/htb-writeups)
-
-**📚 [Hack The Box Writeups →](https://github.com/azyztns/htb-writeups)** — detailed, screenshot-rich walkthroughs of every **retired** box I've rooted.
-
 </div>
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> Pinned Projects
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<a href="https://github.com/azyztns/htb-writeups">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=azyztns&repo=htb-writeups&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=141d2b&border_color=30363d&show_owner=false" />
-</a>
+### 🚩 [htb-writeups](https://github.com/azyztns/htb-writeups)
 
-</div>
+Detailed, screenshot-rich walkthroughs of every **retired** Hack The Box machine I've rooted — full recon → foothold → root chains.
 
-> 💡 Pin your best repos on your profile: **profile → "Customize your pins" → tick `htb-writeups` + your top uni projects.**
+<a href="https://github.com/azyztns/htb-writeups"><img src="https://img.shields.io/badge/view_repo-htb--writeups-9FEF00?style=for-the-badge&logo=github&logoColor=black&labelColor=141d2b"/></a>
+
+`10 machines` · `Linux + Windows` · `Easy → Insane`
+
+</td>
+<td width="45%" valign="top">
+
+### 🎓 University Projects
+
+Coursework & personal builds — pinned on my profile.
+
+<img src="https://img.shields.io/badge/more-on_my_pins_below-1a7f37?style=for-the-badge&labelColor=141d2b"/>
+
+</td>
+</tr>
+</table>
+
+> 💡 Pin your best repos: **profile → "Customize your pins" → tick `htb-writeups` + your top uni projects.**
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7f37,100:141d2b&height=120&section=footer&text=there%20is%20no%20patch%20for%20human%20curiosity&fontColor=9FEF00&fontSize=18&fontAlignY=70" width="100%" alt="footer"/>
