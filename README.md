@@ -36,13 +36,11 @@ class Xherogasm:
 <!-- ═══════════════════ ARSENAL ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Arsenal
 
-<p align="center">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows%20AD-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git,github,vscode&theme=dark" alt="skills" />
+
+</div>
 
 <div align="center">
 
@@ -99,6 +97,19 @@ class Xherogasm:
 **📚 [Hack The Box Writeups →](https://github.com/azyztns/htb-writeups)** — detailed, screenshot-rich walkthroughs of every **retired** box I've rooted.
 
 </div>
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/azyztns/htb-writeups">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=azyztns&repo=htb-writeups&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=141d2b&border_color=30363d&show_owner=false" />
+</a>
+
+</div>
+
+> 💡 Pin your best repos on your profile: **profile → "Customize your pins" → tick `htb-writeups` + your top uni projects.**
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7f37,100:141d2b&height=120&section=footer&text=there%20is%20no%20patch%20for%20human%20curiosity&fontColor=9FEF00&fontSize=18&fontAlignY=70" width="100%" alt="footer"/>
