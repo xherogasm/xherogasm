@@ -72,11 +72,11 @@ class Xherogasm:
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xherogasm&layout=compact&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
 
-<img src="https://streak-stats.demolab.com?user=xherogasm&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
+<img height="165" src="https://streak-stats.demolab.com?user=xherogasm&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=xherogasm&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<img height="165" src="https://github-profile-trophy.vercel.app/?username=xherogasm&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xherogasm&bg_color=141d2b&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" width="100%" />
+<img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=xherogasm&bg_color=141d2b&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
