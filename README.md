@@ -69,6 +69,7 @@ class Xherogasm:
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=xherogasm&show_icons=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xherogasm&layout=compact&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=141d2b" />
 
 <img src="https://streak-stats.demolab.com?user=xherogasm&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
@@ -85,6 +86,7 @@ class Xherogasm:
 <div align="center">
 
 <a href="https://app.hackthebox.com/public/users/3073012">
+  
   <img src="https://www.hackthebox.com/badge/image/3073012" alt="Hack The Box" />
 </a>
 
@@ -126,9 +128,11 @@ Coursework & personal builds — pinned on my profile.
 <div align="center">
 
 <a href="https://linkedin.com/in/azyztns">
+  
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/xherogasm">
+
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
 <a href="mailto:mohamedaziztounci@gmail.com">
