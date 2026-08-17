@@ -64,13 +64,11 @@ class Xherogasm:
 </div>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Stats
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ptc3E0OHV3MThnYWIzNXRqNGhidmpyeWlkd3N5cTRld2hqZ2RkeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="26">
 
 <div align="center">
 
 <img height="165" src="https://streak-stats.demolab.com?user=xherogasm&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
-
-<img  src="https://github-profile-trophy.vercel.app/?username=xherogasm&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=xherogasm&bg_color=141d2b&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" width="100%" />
 
