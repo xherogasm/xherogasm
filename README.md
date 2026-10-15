@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9FEF00&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Offensive+Security+Student;Hack+The+Box+Player+%7C+CTF+Grinder;root+is+just+the+beginning...;chasing+OSCP+%2B+CPTS" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9FEF00&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Offensive+Security+Student;Hack+The+Box+Player+%7C+CTF+Grinder;root+is+just+the+beginning...;CPTS+13*CWL" alt="typing" />
 
 <br>
 
