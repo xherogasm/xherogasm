@@ -64,7 +64,7 @@ class Xherogasm:
 </div>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ptc3E0OHV3MThnYWIzNXRqNGhidmpyeWlkd3N5cTRld2hqZ2RkeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="26">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ptc3E0OHV3MThnYWIzNXRqNGhidmpyeWlkd3N5cTRld2hqZ2RkeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100">
 
 <div align="center">
 
