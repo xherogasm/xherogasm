@@ -69,8 +69,6 @@ class Xherogasm:
 
 <img height="165" src="https://streak-stats.demolab.com?user=xherogasm&theme=black-ice&hide_border=true&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=141d2b" />
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=xherogasm&bg_color=141d2b&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" width="100%" />
-
 </div>
 
 <!-- ═══════════════════ HTB + FEATURED ═══════════════════ -->
