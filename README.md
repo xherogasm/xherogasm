@@ -64,7 +64,6 @@ class Xherogasm:
 </div>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ptc3E0OHV3MThnYWIzNXRqNGhidmpyeWlkd3N5cTRld2hqZ2RkeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100">
 
 <div align="center">
 
@@ -113,6 +112,10 @@ Coursework & personal builds — pinned on my profile.
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ptc3E0OHV3MThnYWIzNXRqNGhidmpyeWlkd3N5cTRld2hqZ2RkeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cat typing on a laptop">
+</p>
 
 > 💡 Pin your best repos: **profile → "Customize your pins" → tick `htb_writeups` + your top uni projects.**
 
